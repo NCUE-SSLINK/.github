@@ -8,4 +8,3 @@
 
 * 官方網站：[ncue-sslink.github.io](https://ncue-sslink.github.io/)
 * 聯絡方式： ncue_sslink@googlegroups.com
-* 組成科系：智慧工程學系、生物學系、資訊管理學系、資訊工程學系。
